@@ -1,7 +1,7 @@
 # 👋 Hey, soy Gabriel — Gabo / Neo / Ryuu
 
 🎓 Bachiller en Ingeniería de Sistemas · **UCV**
-💻 Primer año en desarrollo · enfocado en backend, automatización y sistemas empresariales
+💻 Primer año en desarrollo · enfocado en backend y frontend, automatización y sistemas empresariales
 🚀 Aprendiendo rápido, construyendo en serio
 
 ---
